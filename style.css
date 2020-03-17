@@ -2,6 +2,7 @@ body{
  color : black;	
  background-color: deeppink;
  text-align: center;
+ border: 1px solid red;
 }
 
    .link {
